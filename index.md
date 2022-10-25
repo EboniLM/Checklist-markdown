@@ -6,3 +6,5 @@
 ###### test header 6
 
 ![My avatar](https://avatars.githubusercontent.com/u/32157169?v=4)
+
+``` code sample test ```
